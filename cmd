@@ -1,8 +1,7 @@
 for test
-
-
-
-
+serujiky7ul.iullQEQR2tw3regdfhbm,
+srujrsj
+sjejsejs
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
 sudo apt-get update
